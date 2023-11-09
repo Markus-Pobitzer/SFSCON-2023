@@ -5,7 +5,7 @@ Repository for the talk "[Image Generation with Diffusion Models](https://www.sf
 
 | Resources  | Links |
 | ------------- | ------------- |
-| GoogleColab  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Markus-Pobitzer/SFSCON-2023/blob/main/SFSCON_2023_Image_Generation.ipynb)  |
+| Try it out  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Markus-Pobitzer/SFSCON-2023/blob/main/SFSCON_2023_Image_Generation.ipynb)  |
 | Slides  | [Link](SFSCON2023-Markus-Pobitzer.pdf)  |
 | Talk | [Link](https://www.sfscon.it/talks/image-generation-with-diffusion-models/) |
 
